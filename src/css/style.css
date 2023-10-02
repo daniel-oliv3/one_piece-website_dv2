@@ -94,7 +94,7 @@ main .personagem .imagem {
 
 .botoes .botao {
     border: none;
-    background: none;
+    background: #000000;
     border-radius: 50%;
     cursor: pointer;
 }
